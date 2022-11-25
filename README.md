@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **3D printing, robotics, computer vision**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
