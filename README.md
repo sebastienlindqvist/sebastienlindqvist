@@ -1,14 +1,14 @@
-<h1 align="center">Hej 👋, I'm Sebastien</h1>
-<h3 align="center">A curious mechatronics engineer that's passionate about robotics and automation</h3>
+<h1 align="center">Hej 👋, Jag heter Sebastien</h1>
+<h3 align="center">En nyfiken mekatronikingenjör med passion för robotik och automation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastienlindqvist&label=Profile%20views&color=0e75b6&style=flat" alt="sebastienlindqvist" /> </p>
 
 
-- 🔭 I’m currently working on **a home server using Docker Swarm**
+🔭 Jag arbetar för närvarande med en hemsserver med Docker Swarm
 
-- 🌱 I’m currently learning **TwinCAT, TwinSAFE**
+🌱 Jag håller just nu på att lära mig TwinCAT, TwinSAFE
 
-- 💬 Ask me about **3D printing, robotics, computer vision**
+💬 Fråga mig om 3D-utskrift, robotik, datorseende
 
 <p align="left">
 </p>
