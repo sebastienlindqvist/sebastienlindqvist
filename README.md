@@ -1,4 +1,4 @@
-<h1 align="center">Hej 👋, Jag heter Sebastien</h1>
+<h1 align="center">Hej 👋, Jag heter Sebbe</h1>
 <h3 align="center">En nyfiken mekatronikingenjör med passion för robotik och automation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastienlindqvist&label=Profile%20views&color=0e75b6&style=flat" alt="sebastienlindqvist" /> </p>
